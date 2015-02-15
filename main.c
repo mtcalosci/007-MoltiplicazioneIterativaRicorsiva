@@ -38,7 +38,7 @@ int moltiplicazioneRicorsiva(int a, int b) {
     else
     {
         ris = a + moltiplicazioneRicorsiva(a, b-1);
-        return ris;
+        
     }
 
 }
